@@ -1,2 +1,3 @@
 # td_git
-td projet
+ce projet est une calculatrice simple réalisé en python avec Tkinter
+test
